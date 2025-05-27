@@ -15,5 +15,9 @@ cout<<"your name is"<<s<<endl;
 cout<<"age:"<<c<<endl;
 
 return 0;
+ 
 
 }
+
+hjewgqfiuygeqwyuhfnx budu q
+a inuq cj[]cqahf qfi qhv q  ufniu
