@@ -18,6 +18,3 @@ return 0;
  
 
 }
-
-hjewgqfiuygeqwyuhfnx budu q
-a inuq cj[]cqahf qfi qhv q  ufniu
